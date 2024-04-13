@@ -1,0 +1,70 @@
+This is BibTeX, Version 0.99d (TeX Live 2022/dev/Debian)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: main.aux
+The style file: IEEEtran.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: IEEEabrv.bib
+Database file #2: cite.bib
+-- IEEEtran.bst version 1.14 (2015/08/26) by Michael Shell.
+-- http://www.michaelshell.org/tex/ieeetran/bibtex/
+-- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
+Warning--empty journal in Raghavan_Barocas_Kleinberg_Levy_2019
+Warning--empty journal in Bivens_Hoque_2018
+Warning--empty journal in Hutson_Taft_Barocas_Levy_2018
+Warning--empty journal in Kalra_Gupta_Varghese_Rangaswamy_2023
+Warning--empty author in noauthor_modern_2017
+Warning--empty journal in Dell_2005
+Warning--empty journal in Johar
+Warning--empty year in Johar
+Too many commas in name 1 of "Mattu, Jeff Larson, Julia Angwin,Lauren Kirchner,Surya" for entry Mattu
+while executing---line 2403 of file IEEEtran.bst
+Too many commas in name 1 of "Mattu, Jeff Larson, Julia Angwin,Lauren Kirchner,Surya" for entry Mattu
+while executing---line 2403 of file IEEEtran.bst
+
+Done.
+You've used 48 entries,
+            4087 wiz_defined-function locations,
+            1635 strings with 28375 characters,
+and the built_in function-call counts, 23515 in all, are:
+= -- 1898
+> -- 385
+< -- 60
++ -- 193
+- -- 82
+* -- 1152
+:= -- 3901
+add.period$ -- 100
+call.type$ -- 48
+change.case$ -- 51
+chr.to.int$ -- 96
+cite$ -- 56
+duplicate$ -- 1940
+empty$ -- 2132
+format.name$ -- 100
+if$ -- 5321
+int.to.chr$ -- 0
+int.to.str$ -- 48
+missing$ -- 376
+newline$ -- 241
+num.names$ -- 43
+pop$ -- 1042
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 2
+skip$ -- 1796
+stack$ -- 0
+substring$ -- 416
+swap$ -- 1330
+text.length$ -- 28
+text.prefix$ -- 0
+top$ -- 5
+type$ -- 48
+warning$ -- 8
+while$ -- 69
+width$ -- 50
+write$ -- 497
+(There were 2 error messages)

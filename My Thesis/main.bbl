@@ -21,7 +21,13 @@
 \providecommand{\BIBdecl}{\relax}
 \BIBdecl
 
-\bibitem{statista_internet_users_2050}
+\bibitem{noauthor_bumble_nodate}
+\BIBentryALTinterwordspacing
+``\BIBforeignlanguage{en}{Bumble 101}.'' [Online]. Available:
+  \url{https://gew3.bumble.com/en-in/help/bumble-101}
+\BIBentrySTDinterwordspacing
+
+\bibitem{noauthor_india_nodate}
 \BIBentryALTinterwordspacing
 ``\BIBforeignlanguage{en}{India: number of internet users 2050}.'' [Online].
   Available:
@@ -36,6 +42,85 @@ T.~Davidson, D.~Bhattacharya, and I.~Weber, ``Racial bias in hate speech and
   V.~Prabhakaran, and Z.~Waseem, Eds.\hskip 1em plus 0.5em minus 0.4em\relax
   Florence, Italy: Association for Computational Linguistics, Aug. 2019, pp.
   25--35. [Online]. Available: \url{https://aclanthology.org/W19-3504}
+\BIBentrySTDinterwordspacing
+
+\bibitem{Raghavan_Barocas_Kleinberg_Levy_2019}
+\BIBentryALTinterwordspacing
+M.~Raghavan, S.~Barocas, J.~Kleinberg, and K.~Levy,
+  ``\BIBforeignlanguage{en}{Mitigating bias in algorithmic hiring: Evaluating
+  claims and practices},'' no. 3408010, Jun. 2019. [Online]. Available:
+  \url{https://papers.ssrn.com/abstract=3408010}
+\BIBentrySTDinterwordspacing
+
+\bibitem{Bivens_Hoque_2018}
+R.~Bivens and A.~Hoque, ``Programming sex, gender, and sexuality:
+  Infrastructural failures in ‘feminist’ dating app bumble,'' vol.~43, Aug.
+  2018.
+
+\bibitem{MacLeod_McArthur_2019}
+C.~MacLeod and V.~McArthur, ``The construction of gender in dating apps: an
+  interface analysis of tinder and bumble,'' \emph{Feminist Media Studies},
+  vol.~19, no.~6, p. 822–840, Aug. 2019.
+
+\bibitem{Carr_2016}
+\BIBentryALTinterwordspacing
+A.~Carr, ``I found out my secret internal tinder rating and now i wish i
+  hadn’t,'' Jan. 2016. [Online]. Available:
+  \url{https://www.fastcompany.com/3054871/whats-your-tinder-score-inside-the-apps-internal-ranking-system}
+\BIBentrySTDinterwordspacing
+
+\bibitem{Das_2019}
+\BIBentryALTinterwordspacing
+V.~Das, \emph{Dating Applications, Intimacy, and Cosmopolitan Desire in India},
+  ser. Perspectives from South Asia.\hskip 1em plus 0.5em minus 0.4em\relax
+  University of Michigan Press, 2019, p. 125–141. [Online]. Available:
+  \url{https://www.jstor.org/stable/j.ctvndv9rb.9}
+\BIBentrySTDinterwordspacing
+
+\bibitem{Forbes_2020}
+\BIBentryALTinterwordspacing
+Forbes, ``\BIBforeignlanguage{en}{How homegrown dating apps are finding love in
+  india},'' Dec. 2020. [Online]. Available:
+  \url{https://www.forbesindia.com/article/local-champ-2020/how-homegrown-dating-apps-are-finding-love-in-india/65155/1}
+\BIBentrySTDinterwordspacing
+
+\bibitem{Hutson_Taft_Barocas_Levy_2018}
+\BIBentryALTinterwordspacing
+J.~Hutson, J.~Taft, S.~Barocas, and K.~Levy,
+  ``\BIBforeignlanguage{en}{Debiasing desire: Addressing bias and
+  discrimination on intimate platforms},'' no. 3244459, Sep. 2018. [Online].
+  Available: \url{https://papers.ssrn.com/abstract=3244459}
+\BIBentrySTDinterwordspacing
+
+\bibitem{Lambrecht_Tucker_2019}
+A.~Lambrecht and C.~Tucker, ``\BIBforeignlanguage{en}{Algorithmic bias? an
+  empirical study of apparent gender-based discrimination in the display of
+  stem career ads},'' \emph{\BIBforeignlanguage{en}{Management Science}},
+  vol.~65, no.~7, p. 2966–2981, Jul. 2019.
+
+\bibitem{Selbst_Boyd_Friedler_Venkatasubramanian_Vertesi_2019}
+\BIBentryALTinterwordspacing
+A.~D. Selbst, D.~Boyd, S.~A. Friedler, S.~Venkatasubramanian, and J.~Vertesi,
+  ``\BIBforeignlanguage{en}{Fairness and abstraction in sociotechnical
+  systems},'' in \emph{\BIBforeignlanguage{en}{Proceedings of the Conference on
+  Fairness, Accountability, and Transparency}}.\hskip 1em plus 0.5em minus
+  0.4em\relax Atlanta GA USA: ACM, Jan. 2019, p. 59–68. [Online]. Available:
+  \url{https://dl.acm.org/doi/10.1145/3287560.3287598}
+\BIBentrySTDinterwordspacing
+
+\bibitem{Kalra_Gupta_Varghese_Rangaswamy_2023}
+\BIBentryALTinterwordspacing
+R.~A. Kalra, P.~Gupta, B.~Varghese, and N.~Rangaswamy, ``Exploring gender
+  disparities in bumble’s match recommendations,'' no. arXiv:2312.09626, Dec.
+  2023, arXiv:2312.09626 [cs]. [Online]. Available:
+  \url{http://arxiv.org/abs/2312.09626}
+\BIBentrySTDinterwordspacing
+
+\bibitem{statista_internet_users_2050}
+\BIBentryALTinterwordspacing
+``\BIBforeignlanguage{en}{India: number of internet users 2050}.'' [Online].
+  Available:
+  \url{https://www.statista.com/statistics/255146/number-of-internet-users-in-india/}
 \BIBentrySTDinterwordspacing
 
 \bibitem{rothman_hands_1987}
@@ -152,5 +237,129 @@ N.~Seth and R.~Patnayakuni, ``Online {Matrimonial} {Sites} and the
 F.-M. Titzmann, ``Changing {Patterns} of {Matchmaking}: {The} {Indian} {Online}
   {Matrimonial} {Market},'' \emph{Asian Journal of Women's Studies}, vol.~19,
   pp. 64--94, Jan. 2013.
+
+\bibitem{Dell_2005}
+\BIBentryALTinterwordspacing
+H.~S. Dell, ``\BIBforeignlanguage{en}{“ordinary” sex, prostitutes, and
+  middle-class wives: Liberalization and national identity in india},'' Apr.
+  2005. [Online]. Available:
+  \url{https://read.dukeupress.edu/books/book/938/chapter/145443/Ordinary-Sex-Prostitutes-and-Middle-Class}
+\BIBentrySTDinterwordspacing
+
+\bibitem{HindustanTimes_2020}
+\BIBentryALTinterwordspacing
+HindustanTimes, ``\BIBforeignlanguage{en}{Bumble hits 4 million users in india,
+  women continue to make the first move},'' Jul. 2020. [Online]. Available:
+  \url{https://tech.hindustantimes.com/tech/news/bumble-hits-4-million-users-in-india-women-continue-to-make-the-first-move-71596094558381.html}
+\BIBentrySTDinterwordspacing
+
+\bibitem{Chronicle_2023}
+\BIBentryALTinterwordspacing
+D.~Chronicle, ``\BIBforeignlanguage{en}{Bumble’s love unfiltered report 2023
+  findings},'' Sep. 2023. [Online]. Available:
+  \url{https://www.deccanchronicle.com/lifestyle/sex-and-relationship/010923/how-does-social-media-and-its-trends-impact-genz-dating-ideals.html}
+\BIBentrySTDinterwordspacing
+
+\bibitem{MediaInfoline_2021}
+\BIBentryALTinterwordspacing
+MediaInfoline, ``\BIBforeignlanguage{en-US}{Bumble shows how single indians are
+  planning to date in 2021},'' Jan. 2021. [Online]. Available:
+  \url{https://www.mediainfoline.com/article/bumble-shows-how-single-indians-are-planning-to-date-in-2021}
+\BIBentrySTDinterwordspacing
+
+\bibitem{Smith_2016}
+\BIBentryALTinterwordspacing
+A.~Smith, ``\BIBforeignlanguage{en-US}{15% of american adults have used online
+  dating sites or mobile dating apps},'' Feb. 2016. [Online]. Available:
+  \url{https://www.pewresearch.org/internet/2016/02/11/15-percent-of-american-adults-have-used-online-dating-sites-or-mobile-dating-apps/}
+\BIBentrySTDinterwordspacing
+
+\bibitem{Johar}
+N.~S. Johar, ``\BIBforeignlanguage{en}{In the supreme court of india criminal
+  original jurisdiction writ petition (criminal) no. 77 of 2016}.''
+
+\bibitem{Bumble}
+\BIBentryALTinterwordspacing
+Bumble, ``\BIBforeignlanguage{en-us}{Bumble - bumble india’s healthy queer
+  dating guide for lgbtq+ communities}.'' [Online]. Available:
+  \url{https://bumble.com/the-buzz/bumble-india-healthy-queer-dating-guide-for-lgbtq-communities}
+\BIBentrySTDinterwordspacing
+
+\bibitem{Bumble_incognito}
+\BIBentryALTinterwordspacing
+------, ``\BIBforeignlanguage{en-in}{Bumble - what is incognito mode and how to
+  use incognito mode for a better bumble experience}.'' [Online]. Available:
+  \url{https://bumble.com/the-buzz/bumble-incognito-mode}
+\BIBentrySTDinterwordspacing
+
+\bibitem{Bumble_private_detector}
+\BIBentryALTinterwordspacing
+------, ``\BIBforeignlanguage{en}{What is private detector and how does it
+  work?}'' [Online]. Available:
+  \url{https://bumble.com/en-in/help/what-is-private-detector}
+\BIBentrySTDinterwordspacing
+
+\bibitem{Bumble_photo_verification}
+\BIBentryALTinterwordspacing
+------, ``\BIBforeignlanguage{en}{Photo verification}.'' [Online]. Available:
+  \url{https://bumble.com/en-us/help/how-can-i-verify-my-profile}
+\BIBentrySTDinterwordspacing
+
+\bibitem{Bumble_pronoun_feature}
+\BIBentryALTinterwordspacing
+------, ``Bumble - here are bumble’s inclusive gender identity options -.''
+  [Online]. Available:
+  \url{https://bumble.com/en-in/the-buzz/bumble-gender-options}
+\BIBentrySTDinterwordspacing
+
+\bibitem{Blackwell_2015}
+\BIBentryALTinterwordspacing
+C.~Blackwell, J.~Birnholtz, and C.~Abbott, ``Seeing and being seen:
+  Co-situation and impression formation using grindr, a location-aware gay
+  dating app,'' \emph{New Media \& Society}, vol.~17, no.~7, pp. 1117--1136,
+  2015. [Online]. Available: \url{https://doi.org/10.1177/1461444814521595}
+\BIBentrySTDinterwordspacing
+
+\bibitem{Publishers_Distributors4753/23_Road_Delhi}
+\BIBentryALTinterwordspacing
+M.~Publishers, Distributors4753/23, A.~Road, and D.~Delhi 110~002,
+  ``\BIBforeignlanguage{en}{Digital queer cultures in india: Politics,
+  intimacies and belonging}.'' [Online]. Available:
+  \url{https://www.routledge.com/Digital-Queer-Cultures-in-India-Politics-Intimacies-and-Belonging/Dasgupta/p/book/9780367279882}
+\BIBentrySTDinterwordspacing
+
+\bibitem{Mattu}
+\BIBentryALTinterwordspacing
+J.~A. L. K.~S. Mattu, Jeff~Larson, ``\BIBforeignlanguage{en}{How we analyzed
+  the compas recidivism algorithm}.'' [Online]. Available:
+  \url{https://www.propublica.org/article/how-we-analyzed-the-compas-recidivism-algorithm}
+\BIBentrySTDinterwordspacing
+
+\bibitem{Lahoti_Gummadi_Weikum_2019}
+P.~Lahoti, K.~P. Gummadi, and G.~Weikum, ``ifair: Learning individually fair
+  data representations for algorithmic decision making,'' in \emph{2019 IEEE
+  35th International Conference on Data Engineering (ICDE)}, Apr. 2019, p.
+  1334–1345.
+
+\bibitem{Bartlett_Morse_Stanton_Wallace_2022}
+R.~Bartlett, A.~Morse, R.~Stanton, and N.~Wallace, ``Consumer-lending
+  discrimination in the fintech era,'' \emph{Journal of Financial Economics},
+  vol. 143, no.~1, p. 30–56, Jan. 2022.
+
+\bibitem{Buolamwini_Gebru_2018}
+\BIBentryALTinterwordspacing
+J.~Buolamwini and T.~Gebru, ``\BIBforeignlanguage{en}{Gender shades:
+  Intersectional accuracy disparities in commercial gender classification},''
+  in \emph{\BIBforeignlanguage{en}{Proceedings of the 1st Conference on
+  Fairness, Accountability and Transparency}}.\hskip 1em plus 0.5em minus
+  0.4em\relax PMLR, Jan. 2018, p. 77–91. [Online]. Available:
+  \url{https://proceedings.mlr.press/v81/buolamwini18a.html}
+\BIBentrySTDinterwordspacing
+
+\bibitem{Obermeyer_Powers_Vogeli_Mullainathan_2019}
+Z.~Obermeyer, B.~Powers, C.~Vogeli, and S.~Mullainathan,
+  ``\BIBforeignlanguage{eng}{Dissecting racial bias in an algorithm used to
+  manage the health of populations},'' \emph{\BIBforeignlanguage{eng}{Science
+  (New York, N.Y.)}}, vol. 366, no. 6464, p. 447–453, Oct. 2019.
 
 \end{thebibliography}
