@@ -13,11 +13,59 @@
 \contentsline {subsection}{\numberline {2.1.1}The West}{8}{subsection.2.1.1}%
 \contentsline {subsection}{\numberline {2.1.2}The Indian Context}{12}{subsection.2.1.2}%
 \contentsline {section}{\numberline {2.2}Fairness in AI systems}{16}{section.2.2}%
-\contentsline {subsection}{\numberline {2.2.1}Racial Bias in Judicial Algorithms}{17}{subsection.2.2.1}%
-\contentsline {subsection}{\numberline {2.2.2}Gender Bias in Job Advertisements}{17}{subsection.2.2.2}%
-\contentsline {subsection}{\numberline {2.2.3}Bias in Mortgage Applications}{17}{subsection.2.2.3}%
+\contentsline {subsection}{\numberline {2.2.1}Bias in Judicial Algorithms}{17}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}Bias in Job Advertisements and Recruitments}{17}{subsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.2.3}Bias in Mortgage Applications}{18}{subsection.2.2.3}%
 \contentsline {subsection}{\numberline {2.2.4}Bias in Facial Recognition Technologies}{18}{subsection.2.2.4}%
 \contentsline {subsection}{\numberline {2.2.5}Ethical Concerns in Healthcare Algorithms}{18}{subsection.2.2.5}%
-\contentsline {chapter}{\numberline {3}Conclusion}{19}{chapter.3}%
+\contentsline {subsection}{\numberline {2.2.6}Other examples of Biases}{19}{subsection.2.2.6}%
+\contentsline {section}{\numberline {2.3}Study of Technology, Sociocultural Dynamics, and Social Justice in Online Communities}{19}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}Engaging Ethical and Reflexive Design Practices}{20}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}Interdisciplinary Approaches to Online Community Building}{20}{subsection.2.3.2}%
+\contentsline {subsection}{\numberline {2.3.3}Incorporating Behavioral Economics for Effective Incentive Structures}{20}{subsection.2.3.3}%
+\contentsline {subsection}{\numberline {2.3.4}Algorithmic Fairness in Social Platforms}{20}{subsection.2.3.4}%
+\contentsline {subsection}{\numberline {2.3.5}Gender and Racial Biase in Algorithmic Recommendations}{21}{subsection.2.3.5}%
+\contentsline {subsection}{\numberline {2.3.6}Designing for Diversity and Inclusivity}{21}{subsection.2.3.6}%
+\contentsline {section}{\numberline {2.4}Analysis of Biases in Online Dating Applications: A Focus on Bumble}{21}{section.2.4}%
+\contentsline {subsection}{\numberline {2.4.1}Heteronormativity in Bumble's Design}{22}{subsection.2.4.1}%
+\contentsline {subsection}{\numberline {2.4.2}Algorithmic Impacts on Society and Mental Health}{22}{subsection.2.4.2}%
+\contentsline {subsection}{\numberline {2.4.3}User Interface and Identity Representation}{22}{subsection.2.4.3}%
+\contentsline {subsection}{\numberline {2.4.4}Behavioral Patterns on Tinder: Gender Differences in User Engagement}{23}{subsection.2.4.4}%
+\contentsline {section}{\numberline {2.5}Investigating Non-Binary Experiences on Dating Platforms in India}{23}{section.2.5}%
+\contentsline {chapter}{\numberline {3}Methodology}{25}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Research Design}{25}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}Selection of Research Methodology}{25}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.1.2}Quantitative Research Component}{26}{subsection.3.1.2}%
+\contentsline {subsection}{\numberline {3.1.3}Qualitative Research Component}{26}{subsection.3.1.3}%
+\contentsline {subsection}{\numberline {3.1.4}Integration of Research Components}{26}{subsection.3.1.4}%
+\contentsline {section}{\numberline {3.2}Participant Selection and Demographics}{27}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Criteria for Participant Selection}{27}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}Demographic Breakdown}{27}{subsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.2.3}Ethical Consideration}{28}{subsection.3.2.3}%
+\contentsline {subsection}{\numberline {3.2.4}Additional Considerations}{28}{subsection.3.2.4}%
+\contentsline {section}{\numberline {3.3}Data Collection Methods}{29}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Surveys}{29}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}Profile Analysis}{29}{subsection.3.3.2}%
+\contentsline {subsection}{\numberline {3.3.3}Interviews}{30}{subsection.3.3.3}%
+\contentsline {section}{\numberline {3.4}Ethical Concerns}{31}{section.3.4}%
+\contentsline {section}{\numberline {3.5}Limitations and Delimitations}{33}{section.3.5}%
+\contentsline {subsection}{\numberline {3.5.1}Delimitations}{33}{subsection.3.5.1}%
+\contentsline {subsection}{\numberline {3.5.2}Limitations}{34}{subsection.3.5.2}%
+\contentsline {subsection}{\numberline {3.5.3}Mitigation Strategies}{34}{subsection.3.5.3}%
+\contentsline {chapter}{\numberline {4}Results and Analysis}{35}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Data Description}{36}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}Participant Recruitment and Profile Setup}{36}{subsection.4.1.1}%
+\contentsline {subsection}{\numberline {4.1.2}Data Collection Methodology}{36}{subsection.4.1.2}%
+\contentsline {subsection}{\numberline {4.1.3}Data Normalization and Processing}{37}{subsection.4.1.3}%
+\contentsline {section}{\numberline {4.2}Analytical Methods}{37}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}Gender Sexuality Comptibility Grid}{37}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}Verification of Demographic Parity}{39}{subsection.4.2.2}%
+\contentsline {subsection}{\numberline {4.2.3}Statistical Techniques}{39}{subsection.4.2.3}%
+\contentsline {section}{\numberline {4.3}Profile Analysis Results}{40}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Interviews Analysis}{41}{section.4.4}%
+\contentsline {subsection}{\numberline {4.4.1}Key Themes from the Interviews}{41}{subsection.4.4.1}%
+\contentsline {section}{\numberline {4.5}Integration of Quantitative and Qualitative Insights}{42}{section.4.5}%
+\contentsline {section}{\numberline {4.6}}{43}{section.4.6}%
+\contentsline {chapter}{\numberline {5}Conclusion}{44}{chapter.5}%
 {\setlength \@tempskipb {3.0ex plus 1pt}}
-\contentsline {chapter}{{Bibliography}}{20}{chapter*.7}%
+\contentsline {chapter}{{Bibliography}}{45}{chapter*.7}%

@@ -328,10 +328,11 @@ M.~Publishers, Distributors4753/23, A.~Road, and D.~Delhi 110~002,
   \url{https://www.routledge.com/Digital-Queer-Cultures-in-India-Politics-Intimacies-and-Belonging/Dasgupta/p/book/9780367279882}
 \BIBentrySTDinterwordspacing
 
-\bibitem{Mattu}
+\bibitem{Mattu_COMPAS}
 \BIBentryALTinterwordspacing
-J.~A. L. K.~S. Mattu, Jeff~Larson, ``\BIBforeignlanguage{en}{How we analyzed
-  the compas recidivism algorithm}.'' [Online]. Available:
+Mattu, J.~Larson, J.~Angwin, L.~Kirchner, and Surya,
+  ``\BIBforeignlanguage{en}{How we analyzed the compas recidivism algorithm}.''
+  [Online]. Available:
   \url{https://www.propublica.org/article/how-we-analyzed-the-compas-recidivism-algorithm}
 \BIBentrySTDinterwordspacing
 
@@ -340,6 +341,22 @@ P.~Lahoti, K.~P. Gummadi, and G.~Weikum, ``ifair: Learning individually fair
   data representations for algorithmic decision making,'' in \emph{2019 IEEE
   35th International Conference on Data Engineering (ICDE)}, Apr. 2019, p.
   1334–1345.
+
+\bibitem{Dastin_2018}
+\BIBentryALTinterwordspacing
+J.~Dastin, ``\BIBforeignlanguage{en-US}{Insight - amazon scraps secret ai
+  recruiting tool that showed bias against women},''
+  \emph{\BIBforeignlanguage{en-US}{Reuters}}, Oct. 2018. [Online]. Available:
+  \url{https://www.reuters.com/article/idUSKCN1MK0AG/}
+\BIBentrySTDinterwordspacing
+
+\bibitem{datta_automated_2015}
+\BIBentryALTinterwordspacing
+A.~Datta, M.~C. Tschantz, and A.~Datta, ``Automated {Experiments} on {Ad}
+  {Privacy} {Settings}: {A} {Tale} of {Opacity}, {Choice}, and
+  {Discrimination},'' Mar. 2015, arXiv:1408.6491 [cs]. [Online]. Available:
+  \url{http://arxiv.org/abs/1408.6491}
+\BIBentrySTDinterwordspacing
 
 \bibitem{Bartlett_Morse_Stanton_Wallace_2022}
 R.~Bartlett, A.~Morse, R.~Stanton, and N.~Wallace, ``Consumer-lending
@@ -356,10 +373,118 @@ J.~Buolamwini and T.~Gebru, ``\BIBforeignlanguage{en}{Gender shades:
   \url{https://proceedings.mlr.press/v81/buolamwini18a.html}
 \BIBentrySTDinterwordspacing
 
+\bibitem{Klare_Burge_Klontz_Vorder_Bruegge_Jain_2012}
+Klare, B.~F. Burge, M.~J. Klontz, J.~C.~V. Bruegge, R.~W. Jain, and A.~K.,
+  ``Face recognition performance: Role of demographic information,'' \emph{IEEE
+  Transactions on Information Forensics and Security}, vol.~7, no.~6, p.
+  1789–1801, Dec. 2012.
+
 \bibitem{Obermeyer_Powers_Vogeli_Mullainathan_2019}
 Z.~Obermeyer, B.~Powers, C.~Vogeli, and S.~Mullainathan,
   ``\BIBforeignlanguage{eng}{Dissecting racial bias in an algorithm used to
   manage the health of populations},'' \emph{\BIBforeignlanguage{eng}{Science
   (New York, N.Y.)}}, vol. 366, no. 6464, p. 447–453, Oct. 2019.
+
+\bibitem{Kay_Matuszek_Munson_2015}
+\BIBentryALTinterwordspacing
+Kay, M.~Matuszek, C.~Munson, and S.~A., ``Unequal representation and gender
+  stereotypes in image search results for occupations,'' in \emph{Proceedings
+  of the 33rd Annual ACM Conference on Human Factors in Computing Systems},
+  ser. CHI ’15.\hskip 1em plus 0.5em minus 0.4em\relax New York, NY, USA:
+  Association for Computing Machinery, Apr. 2015, p. 3819–3828. [Online].
+  Available: \url{https://dl.acm.org/doi/10.1145/2702123.2702520}
+\BIBentrySTDinterwordspacing
+
+\bibitem{Machine_Translation_Gendered_Innovations}
+\BIBentryALTinterwordspacing
+ [Online]. Available:
+  \url{https://genderedinnovations.stanford.edu/case-studies/nlp.html#tabs-2}
+\BIBentrySTDinterwordspacing
+
+\bibitem{Dombrowski_Harmon_Fox_2016}
+\BIBentryALTinterwordspacing
+Dombrowski, L.~Harmon, E.~Fox, and Sarah, ``\BIBforeignlanguage{en}{Social
+  justice-oriented interaction design: Outlining key design strategies and
+  commitments},'' in \emph{\BIBforeignlanguage{en}{Proceedings of the 2016 ACM
+  Conference on Designing Interactive Systems}}.\hskip 1em plus 0.5em minus
+  0.4em\relax Brisbane QLD Australia: ACM, Jun. 2016, p. 656–671. [Online].
+  Available: \url{https://dl.acm.org/doi/10.1145/2901790.2901861}
+\BIBentrySTDinterwordspacing
+
+\bibitem{Kraut_Resnick_2012}
+\BIBentryALTinterwordspacing
+Kraut, R.~E. Resnick, and Paul, \emph{\BIBforeignlanguage{en}{Building
+  Successful Online Communities: Evidence-Based Social Design}}.\hskip 1em plus
+  0.5em minus 0.4em\relax The MIT Press, Mar. 2012. [Online]. Available:
+  \url{https://direct.mit.edu/books/book/2912/Building-Successful-Online-CommunitiesEvidence}
+\BIBentrySTDinterwordspacing
+
+\bibitem{Zytko_Furlo_Aljasim_2021}
+Zytko, D.~Furlo, N.~Aljasim, and Hanan, ``\BIBforeignlanguage{en}{Human-ai
+  interaction for user safety in social matching apps: Involving marginalized
+  users in design},'' 2021.
+
+\bibitem{Yang_2021}
+\BIBentryALTinterwordspacing
+Yang and Kexin, ``\BIBforeignlanguage{en}{A technoethical exploration of online
+  dating algorithms: A systematic literature review},'' 2021, accepted:
+  2021-06-24T18:04:59Z. [Online]. Available:
+  \url{http://ruor.uottawa.ca/handle/10393/42330}
+\BIBentrySTDinterwordspacing
+
+\bibitem{Tyson_Perta_Haddadi_Seto_2016}
+\BIBentryALTinterwordspacing
+Tyson, G.~Perta, V.~C. Haddadi, H.~Seto, and M.~C., ``A first look at user
+  activity on tinder,'' no. arXiv:1607.01952, Jul. 2016, arXiv:1607.01952 [cs].
+  [Online]. Available: \url{http://arxiv.org/abs/1607.01952}
+\BIBentrySTDinterwordspacing
+
+\bibitem{Mislove_Viswanath_Gummadi_Druschel_2010}
+\BIBentryALTinterwordspacing
+Mislove, A.~Viswanath, B.~Gummadi, K.~P. Druschel, and Peter,
+  ``\BIBforeignlanguage{en}{You are who you know: inferring user profiles in
+  online social networks},'' in \emph{\BIBforeignlanguage{en}{Proceedings of
+  the third ACM international conference on Web search and data mining}}.\hskip
+  1em plus 0.5em minus 0.4em\relax New York New York USA: ACM, Feb. 2010, p.
+  251–260. [Online]. Available:
+  \url{https://dl.acm.org/doi/10.1145/1718487.1718519}
+\BIBentrySTDinterwordspacing
+
+\bibitem{Elovici_Fire_Herzberg_Shulman_2014}
+Elovici, Y.~Fire, M.~Herzberg, A.~Shulman, and Haya,
+  ``\BIBforeignlanguage{en}{Ethical considerations when employing fake
+  identities in online social networks for research},''
+  \emph{\BIBforeignlanguage{en}{Science and Engineering Ethics}}, vol.~20,
+  no.~4, p. 1027–1043, Dec. 2014.
+
+\bibitem{Jernigan_Mistree_2009}
+\BIBentryALTinterwordspacing
+Jernigan, C.~Mistree, and B.~F. T., ``\BIBforeignlanguage{en}{Gaydar: Facebook
+  friendships expose sexual orientation},'' \emph{\BIBforeignlanguage{en}{First
+  Monday}}, Sep. 2009. [Online]. Available:
+  \url{https://firstmonday.org/ojs/index.php/fm/article/view/2611}
+\BIBentrySTDinterwordspacing
+
+\bibitem{Petterson_Wrightson_Vasey_2017}
+Petterson, L.~J. Wrightson, C.~R. Vasey, and P.~L.,
+  ``\BIBforeignlanguage{en}{Recalled gendered behavior in childhood: A
+  comparison of androphilic men, gynephilic men, and androphilic women in
+  japan},'' \emph{\BIBforeignlanguage{en}{Archives of Sexual Behavior}},
+  vol.~46, no.~1, p. 119–127, Jan. 2017.
+
+\bibitem{Snowden_Fitton_McKinnon_Gray_2020}
+Snowden, R.~J. Fitton, E.~McKinnon, A.~Gray, and N.~S.,
+  ``\BIBforeignlanguage{en}{Sexual attraction to both genders in ambiphilic
+  men: Evidence from implicit cognitions},''
+  \emph{\BIBforeignlanguage{en}{Archives of Sexual Behavior}}, vol.~49, no.~2,
+  p. 503–515, Feb. 2020.
+
+\bibitem{Vasey_VanderLaan_2014}
+\BIBentryALTinterwordspacing
+Vasey, P.~L. VanderLaan, and D.~P., \emph{\BIBforeignlanguage{en}{Evolutionary
+  Perspectives on Male Androphilia in Humans}}.\hskip 1em plus 0.5em minus
+  0.4em\relax New York, NY: Springer, 2014, p. 369–391. [Online]. Available:
+  \url{https://doi.org/10.1007/978-1-4939-0314-6_19}
+\BIBentrySTDinterwordspacing
 
 \end{thebibliography}
