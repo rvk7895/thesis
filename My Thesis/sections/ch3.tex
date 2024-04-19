@@ -86,8 +86,15 @@ The results of our analysis highlight significant findings regarding the gender 
 \begin{figure}[t!]
  \centering
  \includegraphics[scale=0.8]{figures/Analysis and Results/gender_percentage.png}
- \caption{Percentage of Genders displayed in our Profiles}
+ \caption{Percentage of Genders displayed in our Profiles on Bumble Web}
  \label{fig:img4}
+\end{figure}
+
+\begin{figure}[t!]
+ \centering
+ \includegraphics[scale=0.5]{figures/Analysis and Results/gender_percentage_bumble_mobile.png}
+ \caption{Percentage of Genders displayed in our Profiles on Bumble Mobile}
+ \label{fig:img5}
 \end{figure}
 
 Our analysis revealed discernible skews in the gender distribution of match recommendations. Notably, for our male profiles, the number of female profiles displayed was 9.1\% higher compared to their non-binary male counterparts. Conversely, female profiles experienced a 6.8\% higher exposure to male profiles than did their non-binary female counterparts. These disparities suggest a potential bias in the algorithm's recommendation system, where the gender identity of the user appears to influence the gender composition of the profiles shown. This finding is significant as it suggests that Bumble’s algorithm may not treat gender identity neutrally but rather modulates match visibility in a way that could disadvantage non-binary users.
@@ -95,6 +102,8 @@ Our analysis revealed discernible skews in the gender distribution of match reco
 Another significant trend observed in our analysis concerns the skewed distribution between the number of men and women displayed to users. Generally, the proportion of men shown to users is substantially higher. This trend reflects the overall gender ratio among Bumble users, as derived from our dataset, where men constitute 88.12\% of profiles, women make up 9.92\%, and non-binary individuals account for 1.96\%.
 
 This imbalance in gender representation is even more pronounced when comparing the gender ratios of the profiles shown with the gender of the participants themselves. Specifically, our findings show that men are disproportionately shown to women users compared to how often women are shown to men users. This indicates a potential bias in the algorithm’s process of generating match recommendations, which tends to favor the display of male profiles over female or non-binary profiles.
+
+Despite the recent update to Bumble’s mobile application where non-binary users no longer need to select a binary gender for profile display purposes, our analysis revealed results that closely mirror those from the previous version of Bumble, suggesting persistent patterns in the algorithm's behavior as seen in \ref{fig:img5}. The graph underscores a significant over-representation of profiles from male users across all categories, aligning with our quantitative findings of gender biases in match recommendations. Our cis-men profile received 6.0\% profiles of women more than its non-binary counterpart, and as for our cis-woman profile they recieved 4.5\% more men profiles than their non-binary counterpart.
 
 \section{Interviews Analysis}
 The qualitative insights derived from interviews conducted with Bumble users, particularly those who identify as bisexual, offer a detailed look into the lived experiences and challenges faced on the dating platform. These interviews shed light on the nuanced ways in which the application’s algorithms impact user experiences, particularly in terms of gender representation and the accuracy of match recommendations. The firsthand accounts reveal not only algorithmic shortcomings but also provide critical user perspectives on the platform's operational dynamics.
@@ -117,4 +126,7 @@ On the other hand, the interviews offered nuanced, subjective insights that qual
 
 Together, these methods paint a comprehensive picture of the algorithm's behavior and its effects on users. The quantitative data highlights systemic issues and patterns that require attention, while the qualitative insights provide context and depth, illustrating how these patterns affect real people's interactions on the platform. This dual approach not only strengthens the validity of the findings by corroborating quantitative data with real-world experiences but also enriches the discussion on how to improve algorithmic fairness and inclusivity in digital dating spaces.
 
-\section{Discussions}   
+\section{Conclusion}   
+The investigation conducted within this chapter has provided critical insights into the algorithmic underpinnings of match recommendations on Bumble, particularly as they relate to gender disparities. The results of the analysis, supported by both quantitative data and user interviews, have revealed a pronounced skew in the gender distribution of profiles shown to users. Notably, a higher percentage of male profiles are displayed to women, and conversely, female profiles to men. This trend has persisted even after the update to Bumble's mobile application, which removed the binary gender display requirement for non-binary users.
+
+The implications of these findings are multifaceted. They reflect not just on the technological mechanics of Bumble's algorithms, but also on the social and personal dimensions of how users experience the platform. This study underscores the importance of considering the ethical dimensions of algorithmic design, particularly in social platforms that play a significant role in shaping human interactions and relationships.
