@@ -497,7 +497,7 @@ Noble and S.~Umoja, \emph{Algorithms of Oppression: How Search Engines
 \bibitem{Benjamin_2019}
 Benjamin and Ruha, \emph{\BIBforeignlanguage{en}{Race After Technology:
   Abolitionist Tools for the New Jim Code}}.\hskip 1em plus 0.5em minus
-  0.4em\relax John Wiley & Sons, Jul. 2019.
+  0.4em\relax John Wiley and Sons, Jul. 2019.
 
 \bibitem{Eubanks_2018}
 Eubanks and Virginia, \emph{Automating Inequality: How High-Tech Tools Profile,
@@ -528,6 +528,33 @@ Creswell and J.~W., \emph{Research design: Qualitative, quantitative, and mixed
 PASQUALE and FRANK, \emph{The Black Box Society}.\hskip 1em plus 0.5em minus
   0.4em\relax Harvard University Press, 2015. [Online]. Available:
   \url{http://www.jstor.org/stable/j.ctt13x0hch}
+\BIBentrySTDinterwordspacing
+
+\bibitem{Crawford_Calo_2016}
+Crawford, K.~Calo, and Ryan, ``There is a blind spot in ai research,''
+  \emph{Nature}, vol. 538, no. 7625, p. 311–313, Oct. 2016.
+
+\bibitem{heidivellastarr_2022}
+\BIBentryALTinterwordspacing
+heidivellastarr, ``\BIBforeignlanguage{en}{Dating in the age of ai: would you
+  let an algorithm choose your partner?}'' Jan. 2022. [Online]. Available:
+  \url{https://heidivella.com/2022/01/03/dating-in-the-age-of-ai-would-you-let-an-algorithm-choose-your-partner/}
+\BIBentrySTDinterwordspacing
+
+\bibitem{Mittelstadt_2016}
+\BIBentryALTinterwordspacing
+B.~D. Mittelstadt, P.~Allo, M.~Taddeo, S.~Wachter, and L.~Floridi, ``The ethics
+  of algorithms: Mapping the debate,'' \emph{Big Data \& Society}, vol.~3,
+  no.~2, p. 2053951716679679, 2016. [Online]. Available:
+  \url{https://doi.org/10.1177/2053951716679679}
+\BIBentrySTDinterwordspacing
+
+\bibitem{Linden_2020}
+\BIBentryALTinterwordspacing
+Lindén and R.~by~Carl-Gustav, ``\BIBforeignlanguage{EN}{Automating the news:
+  How algorithms are rewriting the media},'' \emph{\BIBforeignlanguage{EN}{Mass
+  Communication and Society}}, Nov. 2020. [Online]. Available:
+  \url{https://www.tandfonline.com/doi/full/10.1080/15205436.2020.1783887}
 \BIBentrySTDinterwordspacing
 
 \end{thebibliography}

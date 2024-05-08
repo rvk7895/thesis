@@ -17,20 +17,20 @@
 \contentsline {subsection}{\numberline {2.2.2}Bias in Job Advertisements and Recruitments}{17}{subsection.2.2.2}%
 \contentsline {subsection}{\numberline {2.2.3}Bias in Mortgage Applications}{18}{subsection.2.2.3}%
 \contentsline {subsection}{\numberline {2.2.4}Bias in Facial Recognition Technologies}{18}{subsection.2.2.4}%
-\contentsline {subsection}{\numberline {2.2.5}Ethical Concerns in Healthcare Algorithms}{18}{subsection.2.2.5}%
+\contentsline {subsection}{\numberline {2.2.5}Ethical Concerns in Healthcare Algorithms}{19}{subsection.2.2.5}%
 \contentsline {subsection}{\numberline {2.2.6}Other examples of Biases}{19}{subsection.2.2.6}%
-\contentsline {section}{\numberline {2.3}Study of Technology, Sociocultural Dynamics, and Social Justice in Online Communities}{19}{section.2.3}%
+\contentsline {section}{\numberline {2.3}Study of Technology, Sociocultural Dynamics, and Social Justice in Online Communities}{20}{section.2.3}%
 \contentsline {subsection}{\numberline {2.3.1}Engaging Ethical and Reflexive Design Practices}{20}{subsection.2.3.1}%
 \contentsline {subsection}{\numberline {2.3.2}Interdisciplinary Approaches to Online Community Building}{20}{subsection.2.3.2}%
-\contentsline {subsection}{\numberline {2.3.3}Incorporating Behavioral Economics for Effective Incentive Structures}{20}{subsection.2.3.3}%
-\contentsline {subsection}{\numberline {2.3.4}Algorithmic Fairness in Social Platforms}{20}{subsection.2.3.4}%
+\contentsline {subsection}{\numberline {2.3.3}Incorporating Behavioral Economics for Effective Incentive Structures}{21}{subsection.2.3.3}%
+\contentsline {subsection}{\numberline {2.3.4}Algorithmic Fairness in Social Platforms}{21}{subsection.2.3.4}%
 \contentsline {subsection}{\numberline {2.3.5}Gender and Racial Biase in Algorithmic Recommendations}{21}{subsection.2.3.5}%
 \contentsline {subsection}{\numberline {2.3.6}Designing for Diversity and Inclusivity}{21}{subsection.2.3.6}%
-\contentsline {section}{\numberline {2.4}Analysis of Biases in Online Dating Applications: A Focus on Bumble}{21}{section.2.4}%
+\contentsline {section}{\numberline {2.4}Analysis of Biases in Online Dating Applications: A Focus on Bumble}{22}{section.2.4}%
 \contentsline {subsection}{\numberline {2.4.1}Heteronormativity in Bumble's Design}{22}{subsection.2.4.1}%
-\contentsline {subsection}{\numberline {2.4.2}Algorithmic Impacts on Society and Mental Health}{22}{subsection.2.4.2}%
-\contentsline {subsection}{\numberline {2.4.3}User Interface and Identity Representation}{22}{subsection.2.4.3}%
-\contentsline {subsection}{\numberline {2.4.4}Behavioral Patterns on Tinder: Gender Differences in User Engagement}{22}{subsection.2.4.4}%
+\contentsline {subsection}{\numberline {2.4.2}Algorithmic Impacts on Society and Mental Health}{23}{subsection.2.4.2}%
+\contentsline {subsection}{\numberline {2.4.3}User Interface and Identity Representation}{23}{subsection.2.4.3}%
+\contentsline {subsection}{\numberline {2.4.4}Behavioral Patterns on Tinder: Gender Differences in User Engagement}{23}{subsection.2.4.4}%
 \contentsline {section}{\numberline {2.5}Investigating Non-Binary Experiences on Dating Platforms in India}{23}{section.2.5}%
 \contentsline {chapter}{\numberline {3}Methodology}{25}{chapter.3}%
 \contentsline {section}{\numberline {3.1}Research Design}{25}{section.3.1}%
@@ -68,24 +68,11 @@
 \contentsline {section}{\numberline {4.6}Conclusion}{45}{section.4.6}%
 \contentsline {chapter}{\numberline {5}Discussions}{46}{chapter.5}%
 \contentsline {section}{\numberline {5.1}Summary of the Findings}{46}{section.5.1}%
-\contentsline {subsection}{\numberline {5.1.1}Findings of the Algorithmic Bias}{46}{subsection.5.1.1}%
-\contentsline {subsection}{\numberline {5.1.2}Impact of User Experience}{46}{subsection.5.1.2}%
-\contentsline {subsection}{\numberline {5.1.3}Comparison with Theoretical Expectations}{46}{subsection.5.1.3}%
-\contentsline {subsection}{\numberline {5.1.4}Broader Societal Implications}{47}{subsection.5.1.4}%
 \contentsline {section}{\numberline {5.2}Algorithmic Bias and Societal Impact}{47}{section.5.2}%
-\contentsline {subsection}{\numberline {5.2.1}Manifestation of Algorithmic Bias}{47}{subsection.5.2.1}%
-\contentsline {subsection}{\numberline {5.2.2}Societal Impact of Biased Algorithms}{47}{subsection.5.2.2}%
-\contentsline {subsection}{\numberline {5.2.3}Comparative Analysis with Other Social Technologies}{47}{subsection.5.2.3}%
-\contentsline {subsection}{\numberline {5.2.4}Recommendations for Addressing Algorithmic Bias}{48}{subsection.5.2.4}%
 \contentsline {section}{\numberline {5.3}Methodological Reflections}{48}{section.5.3}%
-\contentsline {subsection}{\numberline {5.3.1}Overview of Research Methods}{48}{subsection.5.3.1}%
-\contentsline {subsection}{\numberline {5.3.2}Strengths of the Methodological Approach}{48}{subsection.5.3.2}%
-\contentsline {subsection}{\numberline {5.3.3}Limitations of the Study}{49}{subsection.5.3.3}%
-\contentsline {section}{\numberline {5.4}Implications of Design and Policy}{49}{section.5.4}%
-\contentsline {subsection}{\numberline {5.4.1}Incorporating Inclusivity from the Ground Up}{49}{subsection.5.4.1}%
-\contentsline {subsection}{\numberline {5.4.2}Regular User Feedback Integration}{49}{subsection.5.4.2}%
-\contentsline {subsection}{\numberline {5.4.3}Enhanced Algorithmic Transparency}{49}{subsection.5.4.3}%
-\contentsline {subsection}{\numberline {5.4.4}Developing Comprehensive Anti-Discrimination Guidelines}{50}{subsection.5.4.4}%
-\contentsline {subsection}{\numberline {5.4.5}Encouraging Ethical AI Development}{50}{subsection.5.4.5}%
+\contentsline {section}{\numberline {5.4}Implications of Design and Policy}{48}{section.5.4}%
+\contentsline {section}{\numberline {5.5}Future Research Directions}{50}{section.5.5}%
+\contentsline {section}{\numberline {5.6}Conclusion}{51}{section.5.6}%
+\contentsline {chapter}{\numberline {6}Supplimentary Material}{53}{chapter.6}%
 {\setlength \@tempskipb {3.0ex plus 1pt}}
-\contentsline {chapter}{{Bibliography}}{51}{chapter*.6}%
+\contentsline {chapter}{{Bibliography}}{57}{chapter*.11}%

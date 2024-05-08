@@ -1,0 +1,70 @@
+This is BibTeX, Version 0.99d (TeX Live 2022/dev/Debian)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: main.aux
+The style file: IEEEtran.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: IEEEabrv.bib
+Database file #2: cite.bib
+Warning--I didn't find a database entry for "Kaminsiki_2019"
+-- IEEEtran.bst version 1.14 (2015/08/26) by Michael Shell.
+-- http://www.michaelshell.org/tex/ieeetran/bibtex/
+-- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
+Warning--empty journal in Raghavan_Barocas_Kleinberg_Levy_2019
+Warning--empty journal in Bivens_Hoque_2018
+Warning--empty journal in Hutson_Taft_Barocas_Levy_2018
+Warning--empty journal in Kalra_Gupta_Varghese_Rangaswamy_2023
+Warning--empty author in noauthor_modern_2017
+Warning--empty journal in Dell_2005
+Warning--empty journal in Johar
+Warning--empty year in Johar
+Warning--empty journal in Zytko_Furlo_Aljasim_2021
+Warning--empty journal in Yang_2021
+Warning--empty journal in Tyson_Perta_Haddadi_Seto_2016
+
+Done.
+You've used 75 entries,
+            4087 wiz_defined-function locations,
+            1812 strings with 34540 characters,
+and the built_in function-call counts, 39386 in all, are:
+= -- 3254
+> -- 755
+< -- 83
++ -- 366
+- -- 168
+* -- 1942
+:= -- 6366
+add.period$ -- 156
+call.type$ -- 75
+change.case$ -- 71
+chr.to.int$ -- 96
+cite$ -- 86
+duplicate$ -- 3252
+empty$ -- 3516
+format.name$ -- 211
+if$ -- 9048
+int.to.chr$ -- 0
+int.to.str$ -- 75
+missing$ -- 620
+newline$ -- 356
+num.names$ -- 69
+pop$ -- 1683
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 2
+skip$ -- 3093
+stack$ -- 0
+substring$ -- 645
+swap$ -- 2299
+text.length$ -- 51
+text.prefix$ -- 0
+top$ -- 5
+type$ -- 75
+warning$ -- 11
+while$ -- 105
+width$ -- 77
+write$ -- 774
+(There were 12 warnings)

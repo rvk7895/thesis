@@ -76,25 +76,32 @@
 %------------------------------------------------
 \input{sections/certificate.tex}
 \mastersthesis
+
+%--------------------------------------------
+\newpage
+\thispagestyle{empty}
+\renewcommand{\thesisdedication}{{\large To my family, friends and Prof. Nimmi Rangaswamy for their constant love and support\\}}
+\thesisdedicationpage
+
+\chapter*{Acknowledgement}
+\label{ch:acknowledgement}
+\input{sections/acknowledgement.tex}
 % \renewcommand{\baselinestretch}{1.5}
 %
 % ABSTRACT PAGE
-% \chapter*{Abstract}
-% \label{ch:abstract}
-% \input{sections/abstract.tex}
+\chapter*{Abstract}
+\label{ch:abstract}
+\input{sections/abstract.tex}
 %
 \tableofcontents
 \listoffigures
 \let\cleardoublepage\clearpage
-\listoftables
-\printglossary[type=\acronymtype,title=Abbreviations,nonumberlist]
-\printunsrtglossary[type=symbols]
 
 %--------------------------------------------------------
-% % 'List of Publications'
-% \chapter*{List of Related Publications}
-% \label{ch:relatedPubs}
-% \input{sections/relatedPapers.tex}
+% 'List of Publications'
+\chapter*{List of Related Publications}
+\label{ch:relatedPubs}
+\input{sections/relatedPapers.tex}
 
 %--------------------------------------------------------
 \chapter{Introduction}
@@ -125,6 +132,13 @@
 \input{sections/ch4.tex}
 
 %--------------------------------------------------------
+
+\chapter{Supplimentary Material}
+\label{ch:supp_mat}
+\input{sections/supplimentary_material.tex}
+
+%--------------------------------------------------------
+
 \bibliographystyle{IEEEtran}
 \bibliography{IEEEabrv,cite.bib}{}
 
